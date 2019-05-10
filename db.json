@@ -17,11 +17,31 @@
     }
   ],
   "conditioner": [
-    { "id": 1, "name": "some conditioner 1"},
-    { "id": 2, "name": "some conditioner 2"}
+    { 
+     "product_name": "conditioner 1",
+     "brand":"garnier",
+     "price":"10.99"
+    },
+    {
+     "product_name": "conditioner 2",
+     "brand":"loreal",
+     "price":"10.99"
+    },
+    {
+     "product_name": "conditioner 3",
+     "brand":"bumble",
+     "price":"10.99"
+    }
   ],
-  "mask": {
-    "id":"1",
-    "name": "typicode"
+  "mask": 
+  {
+     "product_name": "mask 1",
+     "brand":"loreal",
+     "price":"10.99"
+  },
+  {
+     "product_name": "mask 2",
+     "brand":"loreal",
+     "price":"10.99"
   }
 }
