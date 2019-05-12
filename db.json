@@ -3,29 +3,38 @@
     { "id": 1, 
      "product_name": "Shampoo 1",
      "brand":"loreal",
-     "price":"10.99"
+     "price":"10.99",
+     "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh ipsum consequat nisl vel pretium lectus quam id. Eget nunc lobortis mattis aliquam. Turpis massa sed elementum tempus egestas sed sed risus pretium. Ac auctor augue mauris augue"
     },
     { "id": 2, 
      "product_name": "Shampoo 2",
      "brand":"garnier",
-     "price":"12.99"
+     "price":"12.99",
+     "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh ipsum consequat nisl vel pretium lectus quam id. Eget nunc lobortis mattis aliquam. Turpis massa sed elementum tempus egestas sed sed risus pretium. Ac auctor augue mauris augue"
+
     },
     { 
      "product_name": "Shampoo 3",
      "brand":"Bumble Bumble",
-     "price":"9.99"
+     "price":"9.99",
+     "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh ipsum consequat nisl vel pretium lectus quam id. Eget nunc lobortis mattis aliquam. Turpis massa sed elementum tempus egestas sed sed risus pretium. Ac auctor augue mauris augu"
+      
     }
   ],
   "conditioner": [
     { 
      "product_name": "conditioner 1",
      "brand":"garnier",
-     "price":"10.99"
+     "price":"10.99",
+     "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh ipsum consequat nisl vel pretium lectus quam id. Eget nunc lobortis mattis aliquam. Turpis massa sed elementum tempus egestas sed sed risus pretium. Ac auctor augue mauris augue"
+
     },
     {
      "product_name": "conditioner 2",
      "brand":"loreal",
-     "price":"10.99"
+     "price":"10.99",
+     "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh ipsum consequat nisl vel pretium lectus quam id. Eget nunc lobortis mattis aliquam. Turpis massa sed elementum tempus egestas sed sed risus pretium. Ac auctor augue mauris augue"
+
     },
     {
      "product_name": "conditioner 3",
@@ -38,12 +47,16 @@
   {
      "product_name": "mask 1",
      "brand":"loreal",
-     "price":"10.99"
+     "price":"10.99",
+     "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh ipsum consequat nisl vel pretium lectus quam id. Eget nunc lobortis mattis aliquam. Turpis massa sed elementum tempus egestas sed sed risus pretium. Ac auctor augue mauris augue"
+
   },
   {
      "product_name": "mask 2",
      "brand":"loreal",
-     "price":"10.99"
+     "price":"10.99",
+     "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh ipsum consequat nisl vel pretium lectus quam id. Eget nunc lobortis mattis aliquam. Turpis massa sed elementum tempus egestas sed sed risus pretium. Ac auctor augue mauris augue"
+
   }
     ]
 }
